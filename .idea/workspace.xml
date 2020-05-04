@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f68f12-1cba-4ade-9a7d-706362b3e9ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav/Nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav/Nav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/Post" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Settings" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -49,10 +50,11 @@
       <recent name="$PROJECT_DIR$/src/components/Header" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Settings" />
+      <recent name="$PROJECT_DIR$/src/components/News" />
+      <recent name="$PROJECT_DIR$/src/components/Music" />
       <recent name="$PROJECT_DIR$/src/components/Profile/MyPosts/Post" />
       <recent name="$PROJECT_DIR$/src/components/Profile/MyPosts" />
-      <recent name="$PROJECT_DIR$/src/components/Profile" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -97,8 +99,17 @@
       <workItem from="1588368273372" duration="2109000" />
       <workItem from="1588403209561" duration="1676000" />
       <workItem from="1588407331996" duration="18179000" />
-      <workItem from="1588493029453" duration="10037000" />
+      <workItem from="1588493029453" duration="18867000" />
+      <workItem from="1588584287495" duration="3877000" />
     </task>
+    <task id="LOCAL-00001" summary="first STOP">
+      <created>1588506450133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588506450133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first STOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="first STOP" />
   </component>
 </project>
