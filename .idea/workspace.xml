@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f68f12-1cba-4ade-9a7d-706362b3e9ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/render.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/render.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +103,8 @@
       <workItem from="1588407331996" duration="18179000" />
       <workItem from="1588493029453" duration="18867000" />
       <workItem from="1588584287495" duration="25332000" />
-      <workItem from="1588666380192" duration="13530000" />
+      <workItem from="1588666380192" duration="13714000" />
+      <workItem from="1588777026655" duration="7269000" />
     </task>
     <task id="LOCAL-00001" summary="first STOP">
       <created>1588506450133</created>
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588631864484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="flux">
+      <created>1588711712775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588711712775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +157,7 @@
     <MESSAGE value="first STOP" />
     <MESSAGE value="add dialogs" />
     <MESSAGE value="add state.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add state.js" />
+    <MESSAGE value="flux" />
+    <option name="LAST_COMMIT_MESSAGE" value="flux" />
   </component>
 </project>
