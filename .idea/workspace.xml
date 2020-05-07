@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="93f68f12-1cba-4ade-9a7d-706362b3e9ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/render.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +106,8 @@
       <workItem from="1588493029453" duration="18867000" />
       <workItem from="1588584287495" duration="25332000" />
       <workItem from="1588666380192" duration="13714000" />
-      <workItem from="1588777026655" duration="7269000" />
+      <workItem from="1588777026655" duration="7305000" />
+      <workItem from="1588868564738" duration="4079000" />
     </task>
     <task id="LOCAL-00001" summary="first STOP">
       <created>1588506450133</created>
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588711712775</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Class">
+      <created>1588799198006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588799198007</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +168,7 @@
     <MESSAGE value="add dialogs" />
     <MESSAGE value="add state.js" />
     <MESSAGE value="flux" />
-    <option name="LAST_COMMIT_MESSAGE" value="flux" />
+    <MESSAGE value="add Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Class" />
   </component>
 </project>
