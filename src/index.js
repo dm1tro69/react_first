@@ -1,6 +1,6 @@
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import store from "./redux/state";
+import store from "./redux/redux-store";
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -12,7 +12,9 @@ export let rerenderEntireTree = (state) => {
     ReactDOM.render(
   <React.StrictMode>
     <App state={state}
-         dispatch={store.dispatch.bind(store)}/>
+         dispatch={store.dispatch.bind(store)}
+         store={store}
+    />
          {/*// updateNewPostText={store.updateNewPostText.bind(store)}/>*/}
 
   </React.StrictMode>,
@@ -22,7 +24,10 @@ export let rerenderEntireTree = (state) => {
 };
 
 rerenderEntireTree(store.getState());
-store.subscribe(rerenderEntireTree);
+store.subscribe(() => {
+    let state = store.getState();
+    rerenderEntireTree(state);
+});
 
 
 // If you want your app to work offline and load faster, you can change
